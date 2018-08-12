@@ -1,5 +1,5 @@
 #include <stdio.h>
-//SElectivo
+//Selectivo
 void main()
 {
     int x = 1;
