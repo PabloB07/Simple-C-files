@@ -1,6 +1,5 @@
 #include <stdio.h>
-
-
+//ifandelse
 void main()
 {
     int x = 10;

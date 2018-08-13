@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//main class
 void main()
 {
     int numero = 100;
